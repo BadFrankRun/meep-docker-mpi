@@ -1,5 +1,5 @@
 
-FROM ubuntu:bionic
+FROM ubuntu:noble
 
 # Nimbix image-common desktop
 RUN apt-get -y update && \
